@@ -1,7 +1,7 @@
-[![MasterHead](https://img.freepik.com/free-vector/frontend-developer-typographic-header-website-interface-design-improvement-web-page-programming-coding-testing-it-profession-isolated-flat-vector-illustration_613284-304.jpg?w=2000)](https://rishavchanda.io)
+[![MasterHead](https://img.freepik.com/free-vector/frontend-developer-typographic-header-website-interface-design-improvement-web-page-programming-coding-testing-it-profession-isolated-flat-vector-illustration_613284-304.jpg?w=2000)](https://github.com/Gulshan1228)
 <h1 align="center">Hi 👋, I'm Gulshan Singh</h1>
 <h3 align="center">A passionate frontend developer, Python Developer from India .</h3>
-<img align="right" alt="coding" width="350" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
+<img align="right" alt="coding" width="300" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gulshan1228&label=Profile%20views&color=0e75b6&style=flat" alt="gulshan1228" /> </p>
 
