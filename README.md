@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gulshan1228&label=Profile%20views&color=0e75b6&style=flat" alt="gulshan1228" /> </p>
 
-- 🌱 I’m currently learning **React native , Node.JS**
+- 🌱 I’m currently learning **JavaScript ,ReactJS , Node.JS**
 
-- 💬 Ask me about **Web Development, Full stack Development , Data Science**
+- 💬 Ask me about **Web Designer, Full stack Development , Python Development**
 
-- 📫 How to reach me **gulshan91351@gmail.com**
+- 📫 How to reach me **gulshan91351@gmail.com or Contact Me at 8920461228 **
 
 - ⚡ Fun fact **I am funny as well as hard working, I do stuff with fun and full efforts**
 
